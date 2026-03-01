@@ -1,0 +1,12 @@
+{
+  "universidade": {
+    "nome": "UNA",
+    "cidade": "Belo Horizonte",
+    "cursos": [
+      {
+        "nome": "Sistemas de Informação",
+        "duracao": 8
+      }
+    ]
+  }
+}

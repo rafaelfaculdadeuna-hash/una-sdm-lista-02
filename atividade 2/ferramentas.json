@@ -1,0 +1,11 @@
+{
+  "ferramentas": [
+    {
+      "id": 1,
+      "nome": "Chave de Fenda",
+      "marca": "Tramontina",
+      "quantidade": 50,
+      "preco": 12.90
+    }
+  ]
+}

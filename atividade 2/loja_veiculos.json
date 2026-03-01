@@ -1,0 +1,11 @@
+{
+  "veiculos": [
+    {
+      "id": 1,
+      "marca": "Fiat",
+      "modelo": "Palio",
+      "ano": 2009,
+      "preco": 23000
+    }
+  ]
+}

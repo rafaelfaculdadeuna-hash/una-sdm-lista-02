@@ -1,0 +1,12 @@
+{
+  "shopping": {
+    "nome": "Shopping Central",
+    "lojas": [
+      {
+        "nome": "Loja de Roupas",
+        "categoria": "Vestuário",
+        "andar": 2
+      }
+    ]
+  }
+}
